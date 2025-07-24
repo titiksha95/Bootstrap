@@ -8,7 +8,6 @@ A responsive and modern website built using **HTML**, **CSS**, **JavaScript**, a
 - Modern UI components (Navbar, Cards, Carousel, Footer)
 - Smooth scrolling and interactive sections
 - Cross-browser compatibility
-- Lightweight and fast loading
 
 ## 🛠️ Tech Stack
 
