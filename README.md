@@ -32,4 +32,3 @@ Bootstrap Documentation
 
 Icons by Font Awesome
 
-Placeholder images from Unsplash
